@@ -1,4 +1,4 @@
-# Beta Academy Curriculum
+# DockYard Academy Curriculum
 ## QuickStart
 1. install [asdf](https://asdf-vm.com/guide/getting-started.html#_1-install-dependencies) or a compatible Elixir and Erlang version.
 2. Install livebook main `mix escript.install github livebook-dev/livebook`.
